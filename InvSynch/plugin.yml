@@ -1,0 +1,7 @@
+name: InvSynchronizer
+api: 3.3.0
+version: 1.0
+main: BauboLP\InvSynch\InvSynchronizer
+author: BauboLP
+description: https://github.com/Baubo-LP
+website: https://github.com/Baubo-LP
